@@ -14,7 +14,7 @@
 * **Estudiante:** Natalia Valenzuela ([@NataliaVlza](https://github.com/NataliaVlza))
 * **Institución:** Universidad de Sonora (UNISON) - Facultad Interdisciplinaria de Ingenierías
 * **Modalidad:** Proyecto guiado y desarrollado en sesiones prácticas de laboratorio.
-* **Contacto:** natalia28valenzuela@gmail.com
+* **Contacto:** natalia.sanchezvlza@gmail.com
 * **Ubicación:** Hermosillo, Sonora, México
 
 <br>
@@ -31,7 +31,6 @@
 * **Descarga Directa:** Opción para previsualizar el código generado en pantalla y guardar directamente el archivo resultante en el equipo local.
 
 <br>
-
 <p><b><font size="4">Imágenes del Proyecto</font></b></p>
 
 <p><b>1. Pantalla de Inicio</b><br>
